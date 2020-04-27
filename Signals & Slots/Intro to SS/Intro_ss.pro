@@ -1,3 +1,4 @@
+#Project file
 QT -= gui
 
 CONFIG += c++11 console
